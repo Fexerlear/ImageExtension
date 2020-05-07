@@ -1,2 +1,7 @@
-# ImageExtension
-UIImage Extension，主要包含压缩图片及一些图片的生成方式
+#UIImage Extension
+主要包含压缩图片及一些图片的生成方式
+1. 压缩图片
+2. 根据view 生成image
+3. 根据颜色生成图片
+4. 旋转指定角度
+5. 根据字符串生成二维码图片
